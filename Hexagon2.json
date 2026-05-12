@@ -4,7 +4,6 @@
   "description": "It's just Hexagon but a source",
   "iconURL": "https://i.imgur.com/ZWYN8zN.png",
   "website": "https://www.hexagon.pw/home",
-  "patreonURL": "",
   "tintColor": "#4185A9",
 
   "featuredApps": [
@@ -76,7 +75,7 @@
         }
       },
 
-      "patreon": {}
+
     }
   ],
 
