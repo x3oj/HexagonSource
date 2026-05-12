@@ -1,0 +1,43 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "HEXAGON",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/utthccI.png",
+      "tintColor": "#d01d20",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://download1347.mediafire.com/dkzkux6ecxlg0bQr-Z-0H_NMKlj5JNzy5Lrhn3-sCNuDzuTjfAOGmXKL3306Ru6MBFr7o464397c22NXup_o1KFX7RZF1hdonc4JehPNRbGXKa8LO7t-HPEfy2Cl2qNxFmNNAA1w8eybuARafQObofey9oKZtakI_W7k6PNr2lep/pjcbmhxdfzkzjp1/Hexagon2015.ipa",
+          "size": 58500000,
+          "version": "2.205.61876",
+          "buildVersion": null,
+          "date": "2026-05-12T22:41:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
