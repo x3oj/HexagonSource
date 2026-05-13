@@ -1,0 +1,78 @@
+{
+  "name": "Hexagon",
+  "description": "Hexagonium is a project that aims to bring back older versions of the block-building game ROBLOX.",
+  "iconURL": "https://i.imgur.com/AvMDGai.png",
+  "website": "https://www.hexagon.pw/home",
+  "patreonURL": "https://www.hexagon.pw",
+  "tintColor": "#4185A9",
+  "featuredApps": [
+    "com.roblox.robloxmobile"
+  ],
+  "headerURL": "https://i.imgur.com/G0xQBCE.png",
+  "apps": [
+    {
+      "name": "HEXAGON 2015",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "Hexagonium",
+      "subtitle": "It's Hexagon's 2015 mobile client!",
+      "localizedDescription": "It's Hexagon's 2015 mobile client!",
+      "iconURL": "https://i.imgur.com/jbt8yfX.png",
+      "tintColor": "#d01d20",
+      "category": "games",
+      "screenshots": [
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://download1589.mediafire.com/z04uyzxjej0ggQzfRjHo1Q1JZpzURgLFR5e5XeaXo26Hm3o5XFUkvMn7XA0FP_QsmNa4GoK5BiV5OxIM_xfEwf3GgL_7NhAV4Bkp4H-Gt3rvsRpe6BNnsOHTXcs4SH3FGnVAzbcWi-R_w9Zst4BeFFoGj6EsOmLJdPQSaYy_QNAO/vdhht8ip1ngz4hp/Hexagon2015.ipa",
+          "size": 58523038,
+          "version": "2.205.61876",
+          "buildVersion": "2.205.61876",
+          "date": "2026-05-12T00:00:00-05:00",
+          "localizedDescription": "This is the first proper release of Hexagon's mobile client through a Sidestore source.",
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "new_feature",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2023-03-14T19:00",
+      "tintColor": "#5CA399",
+      "imageURL": "https://example.com/new_feature_image.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
+      "title": "App Update Available",
+      "identifier": "app_update",
+      "caption": "An update is available for My Example App.",
+      "date": "2023-03-10T11:00",
+      "tintColor": "#3660A2",
+      "imageURL": "https://example.com/app_update_image.png",
+      "notify": false,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.example.myapp"
+    }
+  ]
+}
